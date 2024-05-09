@@ -1,0 +1,3 @@
+All’indirizzo 0040106E il Malware effettua una chiamata di funzione alla funzione «CreateProcess» con valore del parametro è “CMD”
+Il valore del registro EDX è 00401577
+Dall'analisi effettuata emerge che il programma è un trojan
